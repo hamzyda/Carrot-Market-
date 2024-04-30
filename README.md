@@ -9,19 +9,28 @@ Softr 플랫폼을 이용한 중고거래 앱 클론 코딩 해보기
 
 **<홈 화면>**
 ----
-![image](https://github.com/hamzyda/Carrot-Martet-/assets/106675227/ce89cc73-43da-4f4c-8153-9d9209a9a722)
+![image](https://github.com/hamzyda/Carrot-Market-/assets/106675227/c013b851-695c-4f21-91c0-c0516128464f)
+
+
+
+**<로그인 화면>**
+----
+![image](https://github.com/hamzyda/Carrot-Market-/assets/106675227/98dcef52-c4a9-4d15-b6ca-28e717fba7e5)
 
 **<메인 화면>**
 ----
-![image](https://github.com/hamzyda/Carrot-Martet-/assets/106675227/cac1d395-bb93-4b08-9100-180be1c5f3d6)
+![image](https://github.com/hamzyda/Carrot-Market-/assets/106675227/3c23822b-e57a-4e90-a7be-e9348737007b)
+
 
 **<중고물품 등록>**
 ----
-![image](https://github.com/hamzyda/Carrot-Martet-/assets/106675227/fec9d67d-74fd-45ee-8a31-ea4bcfcad302)
+![image](https://github.com/hamzyda/Carrot-Market-/assets/106675227/49ceaf3f-54a5-4316-bdea-da06876cd281)
+
 
 **<게시물 화면>**
 ----
-![image](https://github.com/hamzyda/Carrot-Martet-/assets/106675227/7d50f725-f219-4612-800c-4d1b3f55e7bf)
+![image](https://github.com/hamzyda/Carrot-Market-/assets/106675227/019e056b-fab3-41d3-a5a7-12055a02919b)
+
 
 **<게시물 수정 / 삭제>**
 ----
@@ -31,9 +40,11 @@ Softr 플랫폼을 이용한 중고거래 앱 클론 코딩 해보기
 
 **<atomchat을 이용한 채팅 기능>**
 ----
+![image](https://github.com/hamzyda/Carrot-Market-/assets/106675227/7d755212-8935-49c3-8d52-5679ef86468a)
 ![image](https://github.com/hamzyda/Carrot-Martet-/assets/106675227/7f1e1c3d-4baf-49e9-ab91-d11379b3c0a9)
 ![image](https://github.com/hamzyda/Carrot-Martet-/assets/106675227/7984a3dc-79a4-422d-8d01-58ca31593c40)
 
 **<관심 물건 화면>**
 ----
-![image](https://github.com/hamzyda/Carrot-Martet-/assets/106675227/dbc142bf-d037-4e49-9fa4-9deddff05331)
+![image](https://github.com/hamzyda/Carrot-Market-/assets/106675227/94cc2994-be9f-4a1a-a0d7-5e8b4835b56d)
+
