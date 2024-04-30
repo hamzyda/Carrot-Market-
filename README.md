@@ -41,7 +41,6 @@ Softr 플랫폼을 이용한 중고거래 앱 클론 코딩 해보기
 **<atomchat을 이용한 채팅 기능>**
 ----
 ![image](https://github.com/hamzyda/Carrot-Market-/assets/106675227/7d755212-8935-49c3-8d52-5679ef86468a)
-![image](https://github.com/hamzyda/Carrot-Martet-/assets/106675227/7f1e1c3d-4baf-49e9-ab91-d11379b3c0a9)
 ![image](https://github.com/hamzyda/Carrot-Martet-/assets/106675227/7984a3dc-79a4-422d-8d01-58ca31593c40)
 
 **<관심 물건 화면>**
