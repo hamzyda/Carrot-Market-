@@ -47,3 +47,7 @@ Softr 플랫폼을 이용한 중고거래 앱 클론 코딩 해보기
 ----
 ![image](https://github.com/hamzyda/Carrot-Market-/assets/106675227/94cc2994-be9f-4a1a-a0d7-5e8b4835b56d)
 
+
+**시연 영상**
+----
+https://youtu.be/CFoH56n2BOM
