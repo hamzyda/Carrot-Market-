@@ -1,5 +1,5 @@
 # Carrot-Martet-
-
+https://coding82.tistory.com/entry/%EC%A4%91%EA%B3%A0%EA%B1%B0%EB%9E%98-%EC%9B%B9-%EC%82%AC%EC%9D%B4%ED%8A%B8-%ED%81%B4%EB%A1%A0-%EC%BD%94%EB%94%A9-%ED%99%88-%ED%99%94%EB%A9%B4-%EC%84%A4%EA%B3%84?category=1178191
 # Softr
  노코드 기반 Softr을 이용한 중고거래 앱 클론 코딩
 
