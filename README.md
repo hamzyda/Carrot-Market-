@@ -50,4 +50,4 @@ Softr 플랫폼을 이용한 중고거래 앱 클론 코딩 해보기
 
 **시연 영상**
 ----
-https://youtu.be/CFoH56n2BOM
+[https://youtu.be/CFoH56n2BOM](https://youtu.be/LSfvvg4Z8mc)
